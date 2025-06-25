@@ -42,7 +42,7 @@ uv run mcp dev main.py
       "command": "/Users/shawhin/.local/bin/uv", # replace with global path to your uv installation
       "args": [
         "--directory",
-        "/Users/shawhin/Documents/_code/_stv/sandbox/yt-mcp/", # replace with global path to repo
+        "/Users/shawhin/Documents/repos/yt-mcp/", # replace with global path to repo
         "run",
         "main.py"
       ]
