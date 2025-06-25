@@ -2,9 +2,7 @@
 
 A Model Context Protocol (MCP) server that provides tools and prompts for working with (Shaw Talebi's) YouTube videos, including transcript extraction, chapter generation, and blog post creation.
 
-Resources
-- [Video link]
-
+Prepared for AgentCon 2025 - Dallas workshop.
 
 ## Overview
 
