@@ -1,0 +1,5 @@
+jupyterlab
+ipykernel
+ipywidgets
+mcp[cli]
+youtube-transcript-api

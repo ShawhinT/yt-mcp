@@ -1,0 +1,15 @@
+[project]
+name = "yt-mcp"
+version = "0.1.0"
+description = "MCP server for Shaw Talebi's YouTube channel."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "jupyterlab>=4.4.3",
+    "mcp[cli]>=1.9.4",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "youtube-transcript-api>=1.1.0",
+]
