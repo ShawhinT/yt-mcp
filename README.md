@@ -5,6 +5,7 @@ A Model Context Protocol (MCP) server that provides tools and prompts for workin
 Prepared for [AgentCon 2025 - Dallas](https://globalai.community/chapters/dallas/events/agentcon-2025-dallas/) workshop.
 
 Resources:
+- [Recording](https://youtu.be/U9XDqQmV1Hc)
 - [Slides](https://drive.google.com/file/d/1YDGXPoPnF1FToKr2lx4hFSg4AJk3EcOM/view?usp=sharing)
 
 ## Overview
